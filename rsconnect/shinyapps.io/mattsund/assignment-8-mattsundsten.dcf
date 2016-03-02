@@ -2,8 +2,8 @@ name: assignment-8-mattsundsten
 account: mattsund
 server: shinyapps.io
 appId: 86783
-bundleId: 385686
+bundleId: 385692
 url: https://mattsund.shinyapps.io/assignment-8-mattsundsten/
-when: 1456938167.62753
+when: 1456938489.57554
 asMultiple: FALSE
 asStatic: FALSE
